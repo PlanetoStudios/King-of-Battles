@@ -1,4 +1,4 @@
-const CACHE_NAME = "king-battles-v2";
+const CACHE_NAME = "king-battles-v3";
 
 const FILES_TO_CACHE = [
 "./",
